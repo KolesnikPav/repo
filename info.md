@@ -6,6 +6,9 @@
 * git config user.name 
 * git config user.email 
 
+*Можно прописать name и email локально*
+* git config --local user.name
+* git config --local user.email
 
 # Создание "сохранений" (тут и add, и status, и cimmit)
 
